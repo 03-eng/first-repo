@@ -1,4 +1,4 @@
 # first-repo
 Aparna Reddy
 Welcome to "Northwest missouri State university"
-## Spring 2023
+Spring 2023
